@@ -4,7 +4,7 @@
 # 🚀 Hệ Thống Giám Sát & Tưới Tự Động Cho Trang Trại Lan (Smart-Farm)
 
 *Hệ thống IoT thông minh giúp tự động hóa quy trình chăm sóc, giám sát nhiệt độ và điều khiển tưới tiêu tối ưu cho trang trại Lan.*
-
+```
 ---
 
 ## 1. Hướng dẫn cài đặt và cấu hình
@@ -17,7 +17,7 @@ sudo apt update && sudo apt install python3-pip -y
 
 # Cài đặt các thư viện kết nối cảm biến và MQTT
 pip install Adafruit-DHT paho-mqtt requests
-
+```
 
 -------------
 CẬP NHẬT
